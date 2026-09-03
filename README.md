@@ -120,8 +120,5 @@ The project will evolve toward a more robust closed-loop robotic system.
 
 **Built as part of my Summer Build Series.**
 
-<<<<<<< HEAD
-*Learning by building, breaking, debugging, and rebuilding.*
-=======
 *Learning by building, breaking, debugging, and rebuilding.*
 >>>>>>> c54e5698a821ca12be85be2ff83965eb2ee200d1
