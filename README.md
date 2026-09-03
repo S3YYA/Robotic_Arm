@@ -16,6 +16,8 @@ The system consists of:
 * 🧭 IMU/gyroscope-based motion sensing
 * 🎮 Manual control inputs for testing and calibration
 
+<img width="1440" height="2036" alt="Image" src="https://github.com/user-attachments/assets/9428b0eb-f868-4285-ade7-c743b0445b14" />
+
 Hardware
 Main Components
 
